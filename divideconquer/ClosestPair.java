@@ -3,7 +3,11 @@ package divideconquer;
 /**
  * For a set of points in a coordinates system (10000 maximum),
  * ClosestPair class calculates the two closest points.
+<<<<<<< HEAD
  * comments
+=======
+ * 
+>>>>>>> stash
  * @author: anonymous
  * @author: Marisa Afuera
  */
